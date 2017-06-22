@@ -1,0 +1,16 @@
+.jumbotron {
+        background-size: cover;
+        overflow: hidden;
+    }
+    
+    .img-responsive {
+        width: 100%
+    }
+    
+    body {
+        padding-top: 20px;
+    }
+    
+    h2 {
+        margin: 15px auto 20px auto;
+    }
